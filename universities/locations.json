@@ -43,10 +43,17 @@
     "country": "South Korea",
     "location": [
       {
-        "name": "Main Campus",
+        "name": "Gwanak Campus",
         "coordinates": [
-          37.45953783240295,
-          126.9510827524896
+          37.46019184872756,
+          126.95086487602497
+        ]
+      },
+      {
+        "name": "Yeongeon Campus",
+        "coordinates": [
+          37.58120712456937,
+          126.99948223527062
         ]
       }
     ]
@@ -98,6 +105,19 @@
     ]
   },
   {
+    "name": "University of Chicago",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          41.790608356689596,
+          -87.60039530317336
+        ]
+      }
+    ]
+  },
+  {
     "name": "Stanford University",
     "country": "United States",
     "location": [
@@ -137,6 +157,19 @@
     ]
   },
   {
+    "name": "University of California Los Angeles",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          34.07008703131178,
+          -118.44386023228604
+        ]
+      }
+    ]
+  },
+  {
     "name": "University of California Berkeley",
     "country": "United States",
     "location": [
@@ -150,6 +183,32 @@
     ]
   },
   {
+    "name": "Columbia University",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          40.807861417655424,
+          -73.96261081854225
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Johns Hopkins University",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          39.33050153516928,
+          -76.62069359228687
+        ]
+      }
+    ]
+  },
+  {
     "name": "Yale University",
     "country": "United States",
     "location": [
@@ -158,6 +217,19 @@
         "coordinates": [
           41.31660946953559,
           -72.92240928635714
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University of Pennsylvania",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          39.95243260853637,
+          -75.19328880508864
         ]
       }
     ]
@@ -295,6 +367,19 @@
         "coordinates": [
           51.75526524099619,
           -1.2545852667835287
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Imperial College London",
+    "country": "United Kingdom",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          51.49891577025555,
+          -0.17492754189598936
         ]
       }
     ]
