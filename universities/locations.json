@@ -105,6 +105,32 @@
     ]
   },
   {
+    "name": "Duke University",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          36.00167741111304,
+          -78.93820716318346
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Northwestern University",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          42.05722937430988,
+          -87.67532615281772
+        ]
+      }
+    ]
+  },
+  {
     "name": "University of Chicago",
     "country": "United States",
     "location": [
@@ -144,6 +170,19 @@
     ]
   },
   {
+    "name": "University of Washington Seattle",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          47.6554373481695,
+          -122.30740158084986
+        ]
+      }
+    ]
+  },
+  {
     "name": "California Institute of Technology",
     "country": "United States",
     "location": [
@@ -152,6 +191,32 @@
         "coordinates": [
           34.13787389202399,
           -118.12531233014644
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University of Michigan Ann Arbor",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          42.278081707748214,
+          -83.73816418675673
+        ]
+      }
+    ]
+  },
+  {
+    "name": "New York University",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          40.72975192268224,
+          -73.99656755156305
         ]
       }
     ]
@@ -183,6 +248,19 @@
     ]
   },
   {
+    "name": "Carnegie Mellon University",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          40.44344184124333,
+          -79.94284744538533
+        ]
+      }
+    ]
+  },
+  {
     "name": "Columbia University",
     "country": "United States",
     "location": [
@@ -204,6 +282,19 @@
         "coordinates": [
           39.33050153516928,
           -76.62069359228687
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cornell University",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          42.45365498721209,
+          -76.47357780499111
         ]
       }
     ]
@@ -380,6 +471,19 @@
         "coordinates": [
           51.49891577025555,
           -0.17492754189598936
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University College London",
+    "country": "United Kingdom",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          51.52459424508937,
+          -0.13404546467947312
         ]
       }
     ]
