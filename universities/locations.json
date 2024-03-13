@@ -1,194 +1,5 @@
 [
   {
-    "name": "EPFL",
-    "country": "Switzerland",
-    "location": [
-      {
-        "name": "Main Campus",
-        "coordinates": [
-          46.51953541327693,
-          6.566748576740866
-        ]
-      }
-    ]
-  },
-  {
-    "name": "ETH Zurich",
-    "country": "Switzerland",
-    "location": [
-      {
-        "name": "Main Campus",
-        "coordinates": [
-          47.37721714414568,
-          8.54701758971196
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Seoul National University",
-    "country": "South Korea",
-    "location": [
-      {
-        "name": "Gwanak Campus",
-        "coordinates": [
-          37.46019184872756,
-          126.95086487602497
-        ]
-      },
-      {
-        "name": "Yeongeon Campus",
-        "coordinates": [
-          37.58120712456937,
-          126.99948223527062
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Tsinghua University",
-    "country": "China",
-    "location": [
-      {
-        "name": "Main Campus",
-        "coordinates": [
-          39.99987276788524,
-          116.32633659183877
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Peking University",
-    "country": "China",
-    "location": [
-      {
-        "name": "Main Campus",
-        "coordinates": [
-          39.98713492033826,
-          116.30588462559174
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Kyoto University",
-    "country": "Japan",
-    "location": [
-      {
-        "name": "Main Campus",
-        "coordinates": [
-          35.02652551562812,
-          135.78083252541526
-        ]
-      }
-    ]
-  },
-  {
-    "name": "The University of Tokyo",
-    "country": "Japan",
-    "location": [
-      {
-        "name": "Main Campus",
-        "coordinates": [
-          35.713966038846046,
-          139.76274081234956
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Lomonosov Moscow State University",
-    "country": "Russian Federation",
-    "location": [
-      {
-        "name": "Main Campus",
-        "coordinates": [
-          55.70406182562782,
-          37.52856230910677
-        ]
-      }
-    ]
-  },
-  {
-    "name": "University of Oxford",
-    "country": "United Kingdom",
-    "location": [
-      {
-        "name": "Main Campus",
-        "coordinates": [
-          51.75526524099619,
-          -1.2545852667835287
-        ]
-      }
-    ]
-  },
-  {
-    "name": "University of Cambridge",
-    "country": "United Kingdom",
-    "location": [
-      {
-        "name": "Main Campus",
-        "coordinates": [
-          52.20555624964476,
-          0.11314384499981649
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Imperial College London",
-    "country": "United Kingdom",
-    "location": [
-      {
-        "name": "Main Campus",
-        "coordinates": [
-          51.49891577025555,
-          -0.17492754189598936
-        ]
-      }
-    ]
-  },
-  {
-    "name": "University of Edinburgh",
-    "country": "United Kingdom",
-    "location": [
-      {
-        "name": "Main Campus",
-        "coordinates": [
-          55.94467198342611,
-          -3.1893378620939754
-        ]
-      }
-    ]
-  },
-  {
-    "name": "University College London",
-    "country": "United Kingdom",
-    "location": [
-      {
-        "name": "Main Campus",
-        "coordinates": [
-          51.52459424508937,
-          -0.13404546467947312
-        ]
-      }
-    ]
-  },
-  {
-    "name": "National Tsing Hua University",
-    "country": "Taiwan",
-    "location": [
-      {
-        "name": "Main Campus",
-        "coordinates": [
-          24.796893583808767,
-          120.99644335317485
-        ]
-      }
-    ]
-  },
-  {
     "name": "National Taiwan University",
     "country": "Taiwan",
     "location": [
@@ -222,27 +33,27 @@
     ]
   },
   {
-    "name": "Indian Institute of Science",
-    "country": "India",
+    "name": "National Tsing Hua University",
+    "country": "Taiwan",
     "location": [
       {
-        "name": "Bangalore Campus",
+        "name": "Main Campus",
         "coordinates": [
-          13.10332243062725,
-          77.55402896592238
+          24.796893583808767,
+          120.99644335317485
         ]
       }
     ]
   },
   {
-    "name": "University of Hong Kong",
-    "country": "Hong Kong",
+    "name": "Heidelberg University",
+    "country": "Germany",
     "location": [
       {
         "name": "Main Campus",
         "coordinates": [
-          22.283402823569375,
-          114.13639681196481
+          49.41078562086761,
+          8.706532839482467
         ]
       }
     ]
@@ -268,157 +79,170 @@
     ]
   },
   {
-    "name": "University of Pennsylvania",
-    "country": "United States",
+    "name": "Ludwig Maximilian University of Munich",
+    "country": "Germany",
     "location": [
       {
         "name": "Main Campus",
         "coordinates": [
-          39.95243260853637,
-          -75.19328880508864
+          48.15110457803431,
+          11.579882354764937
         ]
       }
     ]
   },
   {
-    "name": "New York University",
-    "country": "United States",
+    "name": "Paris Sciences et Lettres",
+    "country": "France",
     "location": [
       {
         "name": "Main Campus",
         "coordinates": [
-          40.72975192268224,
-          -73.99656755156305
+          48.85560304318301,
+          2.3374913404124964
         ]
       }
     ]
   },
   {
-    "name": "Massachusetts Institute of Technology",
-    "country": "United States",
+    "name": "Indian Institute of Science",
+    "country": "India",
     "location": [
       {
-        "name": "Cambridge Campus",
+        "name": "Bangalore Campus",
         "coordinates": [
-          42.36043149339396,
-          -71.09426317806926
+          13.10332243062725,
+          77.55402896592238
         ]
       }
     ]
   },
   {
-    "name": "University of California Los Angeles",
-    "country": "United States",
-    "location": [
-      {
-        "name": "Main Campus",
-        "coordinates": [
-          34.07008703131178,
-          -118.44386023228604
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Columbia University",
-    "country": "United States",
+    "name": "University of Toronto",
+    "country": "Canada",
     "location": [
       {
         "name": "Main Campus",
         "coordinates": [
-          40.807861417655424,
-          -73.96261081854225
+          43.66440327972784,
+          -79.39666130605445
         ]
       }
     ]
   },
   {
-    "name": "Yale University",
-    "country": "United States",
+    "name": "McGill University",
+    "country": "Canada",
     "location": [
       {
         "name": "Main Campus",
         "coordinates": [
-          41.31660946953559,
-          -72.92240928635714
+          45.505443572366204,
+          -73.57724080954155
         ]
       }
     ]
   },
   {
-    "name": "Duke University",
-    "country": "United States",
+    "name": "University of British Columbia",
+    "country": "Canada",
     "location": [
       {
         "name": "Main Campus",
         "coordinates": [
-          36.00167741111304,
-          -78.93820716318346
+          49.34976844211286,
+          -123.30384063646677
         ]
       }
     ]
   },
   {
-    "name": "University of Chicago",
-    "country": "United States",
+    "name": "Tsinghua University",
+    "country": "China",
     "location": [
       {
         "name": "Main Campus",
         "coordinates": [
-          41.790608356689596,
-          -87.60039530317336
+          39.99987276788524,
+          116.32633659183877
         ]
       }
     ]
   },
   {
-    "name": "University of Michigan Ann Arbor",
-    "country": "United States",
+    "name": "Shanghai Jiao Tong University",
+    "country": "China",
     "location": [
       {
         "name": "Main Campus",
         "coordinates": [
-          42.278081707748214,
-          -83.73816418675673
+          31.025417770237674,
+          121.43377839947595
         ]
       }
     ]
   },
   {
-    "name": "Cornell University",
-    "country": "United States",
+    "name": "Fudan University",
+    "country": "China",
     "location": [
       {
         "name": "Main Campus",
         "coordinates": [
-          42.45365498721209,
-          -76.47357780499111
+          31.297575457178215,
+          121.50359632037966
         ]
       }
     ]
   },
   {
-    "name": "University of California San Diego",
-    "country": "United States",
+    "name": "Peking University",
+    "country": "China",
     "location": [
       {
         "name": "Main Campus",
         "coordinates": [
-          32.88136619469444,
-          -117.23443560533298
+          39.98713492033826,
+          116.30588462559174
         ]
       }
     ]
   },
   {
-    "name": "Stanford University",
-    "country": "United States",
+    "name": "University of Hong Kong",
+    "country": "Hong Kong",
     "location": [
       {
-        "name": "Central Campus",
+        "name": "Main Campus",
         "coordinates": [
-          37.42798659476949,
-          -122.17017749899045
+          22.283402823569375,
+          114.13639681196481
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University of Melbourne",
+    "country": "Australia",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          -37.798252617950006,
+          144.96098472580636
+        ]
+      }
+    ]
+  },
+  {
+    "name": "KU Leuven",
+    "country": "Belgium",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          50.87825277221089,
+          4.699651653045911
         ]
       }
     ]
@@ -437,6 +261,149 @@
     ]
   },
   {
+    "name": "Yale University",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          41.31660946953559,
+          -72.92240928635714
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Stanford University",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Central Campus",
+        "coordinates": [
+          37.42798659476949,
+          -122.17017749899045
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Johns Hopkins University",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          39.33050153516928,
+          -76.62069359228687
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cornell University",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          42.45365498721209,
+          -76.47357780499111
+        ]
+      }
+    ]
+  },
+  {
+    "name": "New York University",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          40.72975192268224,
+          -73.99656755156305
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Carnegie Mellon University",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          40.44344184124333,
+          -79.94284744538533
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University of Michigan Ann Arbor",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          42.278081707748214,
+          -83.73816418675673
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University of Pennsylvania",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          39.95243260853637,
+          -75.19328880508864
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University of California Los Angeles",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          34.07008703131178,
+          -118.44386023228604
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University of Chicago",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          41.790608356689596,
+          -87.60039530317336
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Columbia University",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          40.807861417655424,
+          -73.96261081854225
+        ]
+      }
+    ]
+  },
+  {
     "name": "Princeton University",
     "country": "United States",
     "location": [
@@ -450,14 +417,14 @@
     ]
   },
   {
-    "name": "California Institute of Technology",
+    "name": "University of Illinois at Urbana-Champaign",
     "country": "United States",
     "location": [
       {
         "name": "Main Campus",
         "coordinates": [
-          34.13787389202399,
-          -118.12531233014644
+          40.10204353302258,
+          -88.22720233059479
         ]
       }
     ]
@@ -489,14 +456,53 @@
     ]
   },
   {
-    "name": "Johns Hopkins University",
+    "name": "Duke University",
     "country": "United States",
     "location": [
       {
         "name": "Main Campus",
         "coordinates": [
-          39.33050153516928,
-          -76.62069359228687
+          36.00167741111304,
+          -78.93820716318346
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University of California San Diego",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          32.88136619469444,
+          -117.23443560533298
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Cambridge Campus",
+        "coordinates": [
+          42.36043149339396,
+          -71.09426317806926
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Georgia Institute of Technology",
+    "country": "United States",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          33.77584964186457,
+          -84.39624208812104
         ]
       }
     ]
@@ -515,40 +521,34 @@
     ]
   },
   {
-    "name": "Carnegie Mellon University",
+    "name": "California Institute of Technology",
     "country": "United States",
     "location": [
       {
         "name": "Main Campus",
         "coordinates": [
-          40.44344184124333,
-          -79.94284744538533
+          34.13787389202399,
+          -118.12531233014644
         ]
       }
     ]
   },
   {
-    "name": "Delft University of Technology",
-    "country": "Netherlands",
+    "name": "Seoul National University",
+    "country": "South Korea",
     "location": [
       {
-        "name": "Main Campus",
+        "name": "Gwanak Campus",
         "coordinates": [
-          52.00237020677967,
-          4.373576597273559
+          37.46019184872756,
+          126.95086487602497
         ]
-      }
-    ]
-  },
-  {
-    "name": "University of Toronto",
-    "country": "Canada",
-    "location": [
+      },
       {
-        "name": "Main Campus",
+        "name": "Yeongeon Campus",
         "coordinates": [
-          43.66440327972784,
-          -79.39666130605445
+          37.58120712456937,
+          126.99948223527062
         ]
       }
     ]
@@ -587,14 +587,157 @@
     ]
   },
   {
-    "name": "University of Melbourne",
-    "country": "Australia",
+    "name": "University of Oxford",
+    "country": "United Kingdom",
     "location": [
       {
         "name": "Main Campus",
         "coordinates": [
-          -37.798252617950006,
-          144.96098472580636
+          51.75526524099619,
+          -1.2545852667835287
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kings College London",
+    "country": "United Kingdom",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          51.512065123242806,
+          -0.11615064480473596
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University College London",
+    "country": "United Kingdom",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          51.52459424508937,
+          -0.13404546467947312
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University of Edinburgh",
+    "country": "United Kingdom",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          55.94467198342611,
+          -3.1893378620939754
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Imperial College London",
+    "country": "United Kingdom",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          51.49891577025555,
+          -0.17492754189598936
+        ]
+      }
+    ]
+  },
+  {
+    "name": "University of Cambridge",
+    "country": "United Kingdom",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          52.20555624964476,
+          0.11314384499981649
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Delft University of Technology",
+    "country": "Netherlands",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          52.00237020677967,
+          4.373576597273559
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ETH Zurich",
+    "country": "Switzerland",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          47.37721714414568,
+          8.54701758971196
+        ]
+      }
+    ]
+  },
+  {
+    "name": "EPFL",
+    "country": "Switzerland",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          46.51953541327693,
+          6.566748576740866
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lomonosov Moscow State University",
+    "country": "Russian Federation",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          55.70406182562782,
+          37.52856230910677
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kyoto University",
+    "country": "Japan",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          35.02652551562812,
+          135.78083252541526
+        ]
+      }
+    ]
+  },
+  {
+    "name": "The University of Tokyo",
+    "country": "Japan",
+    "location": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          35.713966038846046,
+          139.76274081234956
         ]
       }
     ]

@@ -1,62 +1,6 @@
 {
   "universities": [
     [
-      "Switzerland",
-      "EPFL"
-    ],
-    [
-      "Switzerland",
-      "ETH Zurich"
-    ],
-    [
-      "South Korea",
-      "Seoul National University"
-    ],
-    [
-      "China",
-      "Tsinghua University"
-    ],
-    [
-      "China",
-      "Peking University"
-    ],
-    [
-      "Japan",
-      "Kyoto University"
-    ],
-    [
-      "Japan",
-      "The University of Tokyo"
-    ],
-    [
-      "Russian Federation",
-      "Lomonosov Moscow State University"
-    ],
-    [
-      "United Kingdom",
-      "University of Oxford"
-    ],
-    [
-      "United Kingdom",
-      "University of Cambridge"
-    ],
-    [
-      "United Kingdom",
-      "Imperial College London"
-    ],
-    [
-      "United Kingdom",
-      "University of Edinburgh"
-    ],
-    [
-      "United Kingdom",
-      "University College London"
-    ],
-    [
-      "Taiwan",
-      "National Tsing Hua University"
-    ],
-    [
       "Taiwan",
       "National Taiwan University"
     ],
@@ -65,64 +9,68 @@
       "National Cheng Kung University"
     ],
     [
-      "India",
-      "Indian Institute of Science"
+      "Taiwan",
+      "National Tsing Hua University"
     ],
     [
-      "Hong Kong",
-      "University of Hong Kong"
+      "Germany",
+      "Heidelberg University"
     ],
     [
       "Germany",
       "Technical University of Munich"
     ],
     [
-      "United States",
-      "University of Pennsylvania"
+      "Germany",
+      "Ludwig Maximilian University of Munich"
     ],
     [
-      "United States",
-      "New York University"
+      "France",
+      "Paris Sciences et Lettres"
     ],
     [
-      "United States",
-      "Massachusetts Institute of Technology"
+      "India",
+      "Indian Institute of Science"
     ],
     [
-      "United States",
-      "University of California Los Angeles"
+      "Canada",
+      "University of Toronto"
     ],
     [
-      "United States",
-      "Columbia University"
+      "Canada",
+      "McGill University"
     ],
     [
-      "United States",
-      "Yale University"
+      "Canada",
+      "University of British Columbia"
     ],
     [
-      "United States",
-      "Duke University"
+      "China",
+      "Tsinghua University"
     ],
     [
-      "United States",
-      "University of Chicago"
+      "China",
+      "Shanghai Jiao Tong University"
     ],
     [
-      "United States",
-      "University of Michigan Ann Arbor"
+      "China",
+      "Fudan University"
     ],
     [
-      "United States",
-      "Cornell University"
+      "China",
+      "Peking University"
     ],
     [
-      "United States",
-      "University of California San Diego"
+      "Hong Kong",
+      "University of Hong Kong"
     ],
     [
-      "United States",
-      "Stanford University"
+      "Australia",
+      "University of Melbourne"
+    ],
+    [
+      "Belgium",
+      "KU Leuven"
     ],
     [
       "United States",
@@ -130,11 +78,55 @@
     ],
     [
       "United States",
+      "Yale University"
+    ],
+    [
+      "United States",
+      "Stanford University"
+    ],
+    [
+      "United States",
+      "Johns Hopkins University"
+    ],
+    [
+      "United States",
+      "Cornell University"
+    ],
+    [
+      "United States",
+      "New York University"
+    ],
+    [
+      "United States",
+      "Carnegie Mellon University"
+    ],
+    [
+      "United States",
+      "University of Michigan Ann Arbor"
+    ],
+    [
+      "United States",
+      "University of Pennsylvania"
+    ],
+    [
+      "United States",
+      "University of California Los Angeles"
+    ],
+    [
+      "United States",
+      "University of Chicago"
+    ],
+    [
+      "United States",
+      "Columbia University"
+    ],
+    [
+      "United States",
       "Princeton University"
     ],
     [
       "United States",
-      "California Institute of Technology"
+      "University of Illinois at Urbana-Champaign"
     ],
     [
       "United States",
@@ -146,7 +138,19 @@
     ],
     [
       "United States",
-      "Johns Hopkins University"
+      "Duke University"
+    ],
+    [
+      "United States",
+      "University of California San Diego"
+    ],
+    [
+      "United States",
+      "Massachusetts Institute of Technology"
+    ],
+    [
+      "United States",
+      "Georgia Institute of Technology"
     ],
     [
       "United States",
@@ -154,15 +158,11 @@
     ],
     [
       "United States",
-      "Carnegie Mellon University"
+      "California Institute of Technology"
     ],
     [
-      "Netherlands",
-      "Delft University of Technology"
-    ],
-    [
-      "Canada",
-      "University of Toronto"
+      "South Korea",
+      "Seoul National University"
     ],
     [
       "Singapore",
@@ -173,8 +173,52 @@
       "Nanyang Technological University"
     ],
     [
-      "Australia",
-      "University of Melbourne"
+      "United Kingdom",
+      "University of Oxford"
+    ],
+    [
+      "United Kingdom",
+      "Kings College London"
+    ],
+    [
+      "United Kingdom",
+      "University College London"
+    ],
+    [
+      "United Kingdom",
+      "University of Edinburgh"
+    ],
+    [
+      "United Kingdom",
+      "Imperial College London"
+    ],
+    [
+      "United Kingdom",
+      "University of Cambridge"
+    ],
+    [
+      "Netherlands",
+      "Delft University of Technology"
+    ],
+    [
+      "Switzerland",
+      "ETH Zurich"
+    ],
+    [
+      "Switzerland",
+      "EPFL"
+    ],
+    [
+      "Russian Federation",
+      "Lomonosov Moscow State University"
+    ],
+    [
+      "Japan",
+      "Kyoto University"
+    ],
+    [
+      "Japan",
+      "The University of Tokyo"
     ]
   ],
   "keywords": [
@@ -195,21 +239,32 @@
     "EPFL",
     "ETH Zurich",
     "Eidgenössische Technische Hochschule Zürich (ETH Zurich)",
+    "Fudan University",
+    "GT",
+    "Gatech",
+    "Georgia Institute of Technology",
+    "Georgia Tech",
     "HKU",
     "Harvard",
     "Harvard University",
-    "IC",
+    "ICL",
     "IISC",
     "Imperial College London",
     "Indian Institute of Science",
     "JHU",
     "Johns Hopkins University",
+    "KCL",
+    "KU Leuven",
+    "King's College London",
     "Kyoto University",
     "KyotoU",
+    "LMU Munich",
     "Lomonosov Moscow State University",
+    "Ludwig Maximilian University of Munich",
     "MIT",
     "MSU",
     "Massachusetts Institute of Technology (MIT)",
+    "McGill University",
     "NCKU",
     "NTHU",
     "NTU",
@@ -225,11 +280,16 @@
     "Northwestern University",
     "Oxford",
     "PKU",
+    "PSL",
+    "Paris Sciences et Lettres (PSL)",
     "Peking University",
     "Princeton",
     "Princeton University",
+    "Ruprecht Karls University Heidelberg",
+    "SJTU",
     "SNU",
     "Seoul National University",
+    "Shanghai Jiao Tong University",
     "Stanford",
     "Stanford University",
     "THU",
@@ -239,7 +299,9 @@
     "Technical University of Munich",
     "The University of Tokyo",
     "Tsinghua University",
+    "U of I",
     "U of T",
+    "UBC",
     "UC Berkeley",
     "UC San Diego",
     "UCB",
@@ -247,12 +309,14 @@
     "UCLA",
     "UCSD",
     "UChicago",
+    "UIUC",
     "UMich",
     "UPenn",
     "UTokyo",
     "UToronto",
     "UW",
     "University College London (UCL)",
+    "University of British Columbia",
     "University of California Los Angeles",
     "University of California San Diego",
     "University of California, Berkeley",
@@ -260,8 +324,10 @@
     "University of Chicago",
     "University of Edinburgh",
     "University of Hong Kong",
+    "University of Illinois at Urbana-Champaign",
     "University of Melbourne",
     "University of Michigan Ann Arbor",
+    "University of Munich (LMU)",
     "University of Oxford",
     "University of Pennsylvania",
     "University of Toronto",
@@ -277,102 +343,124 @@
     "清大"
   ],
   "keyword_index": [
-    31,
-    38,
-    31,
-    33,
-    33,
-    9,
-    38,
-    23,
-    23,
-    28,
-    28,
+    18,
+    24,
+    18,
     39,
-    25,
-    25,
-    0,
-    1,
-    1,
-    17,
-    35,
-    35,
-    10,
-    16,
-    10,
-    16,
-    36,
-    36,
-    5,
-    5,
-    7,
-    21,
-    7,
-    21,
-    15,
-    13,
-    42,
-    34,
-    41,
-    20,
-    42,
-    15,
-    14,
-    13,
-    41,
-    20,
-    34,
-    8,
-    4,
-    4,
-    32,
-    32,
-    2,
-    2,
-    30,
-    30,
-    3,
     39,
-    18,
-    18,
-    18,
-    6,
-    3,
-    40,
-    31,
+    48,
+    24,
     29,
-    31,
-    12,
+    29,
     22,
-    29,
-    26,
-    27,
-    19,
-    6,
-    40,
+    22,
+    49,
+    34,
+    34,
+    51,
+    50,
+    50,
+    13,
     37,
-    12,
-    22,
-    29,
-    31,
-    9,
-    26,
-    11,
+    37,
+    37,
+    37,
+    15,
+    33,
+    33,
+    47,
+    7,
+    47,
+    7,
+    21,
+    21,
+    44,
     17,
+    44,
+    53,
+    53,
+    5,
+    52,
+    5,
+    36,
+    52,
+    36,
+    9,
+    1,
+    2,
+    42,
+    32,
+    41,
+    23,
+    42,
+    1,
+    0,
+    2,
+    41,
+    23,
+    32,
     43,
-    27,
-    8,
-    19,
+    14,
+    6,
+    6,
+    14,
+    30,
+    30,
+    3,
+    12,
     40,
-    37,
-    24,
-    24,
+    40,
+    12,
+    20,
+    20,
+    11,
+    49,
+    4,
+    4,
+    4,
+    54,
+    11,
+    31,
+    8,
+    10,
+    18,
+    35,
+    18,
+    45,
+    27,
+    35,
+    28,
+    31,
+    25,
+    26,
+    54,
+    8,
+    38,
+    45,
+    10,
+    27,
+    35,
+    18,
+    48,
+    28,
+    46,
+    15,
+    31,
+    16,
+    25,
+    5,
+    43,
+    26,
+    8,
+    38,
+    19,
+    19,
+    51,
     0,
-    14,
-    15,
-    13,
-    14,
-    15,
-    13
+    1,
+    2,
+    0,
+    1,
+    2
   ]
 }
