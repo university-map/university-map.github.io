@@ -15,6 +15,21 @@
     "acronyms": []
   },
   {
+    "directoryName": "Leiden University",
+    "country": "Netherlands",
+    "name": "Leiden University",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          52.15666112272208,
+          4.486645668446078
+        ]
+      }
+    ],
+    "acronyms": []
+  },
+  {
     "directoryName": "Delft University of Technology",
     "country": "Netherlands",
     "name": "Delft University of Technology",
@@ -47,6 +62,21 @@
     "acronyms": [
       "WUR"
     ]
+  },
+  {
+    "directoryName": "University of Groningen",
+    "country": "Netherlands",
+    "name": "University of Groningen",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          53.21949359404948,
+          6.562851555002065
+        ]
+      }
+    ],
+    "acronyms": []
   },
   {
     "directoryName": "Utrecht University",
@@ -158,6 +188,21 @@
     ]
   },
   {
+    "directoryName": "Humboldt University of Berlin",
+    "country": "Germany",
+    "name": "Humboldt University of Berlin",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          52.51794825845978,
+          13.393612181958847
+        ]
+      }
+    ],
+    "acronyms": []
+  },
+  {
     "directoryName": "University of Munich",
     "country": "Germany",
     "name": "University of Munich (LMU)",
@@ -256,6 +301,23 @@
     ],
     "acronyms": [
       "HKUST"
+    ]
+  },
+  {
+    "directoryName": "Chinese University of Hong Kong",
+    "country": "Hong Kong",
+    "name": "Chinese University of Hong Kong",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          22.4217688198514,
+          114.20661481101739
+        ]
+      }
+    ],
+    "acronyms": [
+      "CUHK"
     ]
   },
   {
@@ -529,6 +591,23 @@
     "acronyms": []
   },
   {
+    "directoryName": "University of Glasgow",
+    "country": "United Kingdom",
+    "name": "University of Glasgow",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          55.87251586220627,
+          -4.290086733214994
+        ]
+      }
+    ],
+    "acronyms": [
+      "UofG"
+    ]
+  },
+  {
     "directoryName": "University College London",
     "country": "United Kingdom",
     "name": "University College London (UCL)",
@@ -544,6 +623,21 @@
     "acronyms": [
       "UCL"
     ]
+  },
+  {
+    "directoryName": "University of Bristol",
+    "country": "United Kingdom",
+    "name": "University of Bristol",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          51.45869132497698,
+          -2.602250904596444
+        ]
+      }
+    ],
+    "acronyms": []
   },
   {
     "directoryName": "Cornell University",
@@ -681,6 +775,23 @@
     "acronyms": []
   },
   {
+    "directoryName": "University of Wisconsin Madison",
+    "country": "United States",
+    "name": "University of Wisconsin Madison",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          43.076795727224024,
+          -89.412476774287
+        ]
+      }
+    ],
+    "acronyms": [
+      "UW-Madison"
+    ]
+  },
+  {
     "directoryName": "New York University",
     "country": "United States",
     "name": "New York University",
@@ -743,6 +854,23 @@
       }
     ],
     "acronyms": []
+  },
+  {
+    "directoryName": "University of Minnesota Twin Cities",
+    "country": "United States",
+    "name": "University of Minnesota Twin Cities",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          45.290995206229326,
+          -93.25820601947835
+        ]
+      }
+    ],
+    "acronyms": [
+      "UMN"
+    ]
   },
   {
     "directoryName": "Columbia University",
@@ -827,6 +955,23 @@
     ]
   },
   {
+    "directoryName": "Ohio State University",
+    "country": "United States",
+    "name": "Ohio State University",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          40.00644226629289,
+          -83.0164979740574
+        ]
+      }
+    ],
+    "acronyms": [
+      "OSU"
+    ]
+  },
+  {
     "directoryName": "University of California San Francisco",
     "country": "United States",
     "name": "University of California San Francisco",
@@ -899,6 +1044,23 @@
     ]
   },
   {
+    "directoryName": "University of Southern California",
+    "country": "United States",
+    "name": "University of Southern California",
+    "locations": [
+      {
+        "name": "University Park",
+        "coordinates": [
+          34.02265420970884,
+          -118.28526720714093
+        ]
+      }
+    ],
+    "acronyms": [
+      "USC"
+    ]
+  },
+  {
     "directoryName": "Carnegie Mellon University",
     "country": "United States",
     "name": "Carnegie Mellon University",
@@ -965,6 +1127,41 @@
     ]
   },
   {
+    "directoryName": "University of California Santa Barbara",
+    "country": "United States",
+    "name": "University of California Santa Barbara",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          34.41411334040055,
+          -119.84900064761436
+        ]
+      }
+    ],
+    "acronyms": [
+      "UCSB",
+      "UC Santa Barbara"
+    ]
+  },
+  {
+    "directoryName": "Boston University",
+    "country": "United States",
+    "name": "Boston University",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          42.350613616558455,
+          -71.10544000068947
+        ]
+      }
+    ],
+    "acronyms": [
+      "BU"
+    ]
+  },
+  {
     "directoryName": "University of Michigan Ann Arbor",
     "country": "United States",
     "name": "University of Michigan Ann Arbor",
@@ -979,6 +1176,41 @@
     ],
     "acronyms": [
       "UMich"
+    ]
+  },
+  {
+    "directoryName": "Vanderbilt University",
+    "country": "United States",
+    "name": "Vanderbilt University",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          36.144841994021675,
+          -86.80276239173071
+        ]
+      }
+    ],
+    "acronyms": [
+      "VU"
+    ]
+  },
+  {
+    "directoryName": "University of California Irvine",
+    "country": "United States",
+    "name": "University of California Irvine",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          33.643306261639566,
+          -117.84161915110884
+        ]
+      }
+    ],
+    "acronyms": [
+      "UCI",
+      "UC Irvine"
     ]
   },
   {
@@ -1029,6 +1261,21 @@
     "acronyms": [
       "KU"
     ]
+  },
+  {
+    "directoryName": "Sorbonne Universite",
+    "country": "France",
+    "name": "Sorbonne Universite",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          48.85065875837776,
+          2.3402697586301495
+        ]
+      }
+    ],
+    "acronyms": []
   },
   {
     "directoryName": "Universite Paris Saclay",
@@ -1257,6 +1504,23 @@
     ]
   },
   {
+    "directoryName": "University of Zurich",
+    "country": "Switzerland",
+    "name": "University of Zurich",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          47.37472761725841,
+          8.548705812400078
+        ]
+      }
+    ],
+    "acronyms": [
+      "UZH"
+    ]
+  },
+  {
     "directoryName": "Karolinska Institute",
     "country": "Sweden",
     "name": "Karolinska Institute",
@@ -1295,6 +1559,23 @@
     ],
     "acronyms": [
       "SNU"
+    ]
+  },
+  {
+    "directoryName": "Yonsei University",
+    "country": "South Korea",
+    "name": "Yonsei University",
+    "locations": [
+      {
+        "name": "Main Campus",
+        "coordinates": [
+          37.5664419630153,
+          126.93871134132425
+        ]
+      }
+    ],
+    "acronyms": [
+      "YSU"
     ]
   }
 ]
