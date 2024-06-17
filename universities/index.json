@@ -27,7 +27,9 @@
         ]
       }
     ],
-    "acronyms": []
+    "acronyms": [
+      "LEI"
+    ]
   },
   {
     "directoryName": "Delft University of Technology",
@@ -76,7 +78,9 @@
         ]
       }
     ],
-    "acronyms": []
+    "acronyms": [
+      "UG"
+    ]
   },
   {
     "directoryName": "Utrecht University",
